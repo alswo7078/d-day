@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow:hidden;
+}
+div {
+  position:fixed;
+  bottom:5px;
+  display:block;
+  width:100vw;
+  text-align:center;
+  font-family: 'Luckiest Guy', cursive;
+  color:#ffffff16;
+  letter-spacing:.2vmin;
+  font-size:6vmin;
+}
